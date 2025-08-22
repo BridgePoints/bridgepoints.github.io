@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Welcome to My Portfolio!
 ## Projects
 - Project 1: Description
