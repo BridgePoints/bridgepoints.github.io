@@ -1,4 +1,7 @@
---- # Welcome to My Portfolio Hello! My name is Josiah.
+---
+layout: default
+title: Home
+--- # Welcome to My Portfolio!
 ## Projects
 - Project 1: Description
 - Project 2: Description
